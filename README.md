@@ -1,0 +1,2 @@
+# remote-repository
+Source code resources repository supporting file persistence, management of versions, and the acquisition and publication of source and document files. HTTP style request/response transactions having One-way communication, allowing asynchronous messaging between any two endpoints that can listen for connection requests and connect to a remote listener. Supports features like check-in, check-out, versioning, browsing, and querying.
