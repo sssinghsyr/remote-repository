@@ -1,0 +1,5 @@
+ToDo:
+=========================
+1. Distributed hashing.
+2. Improve exceptions handling in TCP communication.
+
